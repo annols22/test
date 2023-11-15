@@ -9,4 +9,4 @@ _italic_ *bold*
 |ikke |sant|det|rocker|
 
 [klikk meg](https://vg.no)
-![Tux, the Linux mascot](/images/tux.png)
+![Tux, the Linux mascot](/images/tux.avif)
